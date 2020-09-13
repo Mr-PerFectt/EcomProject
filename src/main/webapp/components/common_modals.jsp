@@ -19,7 +19,7 @@
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary checkout-btn">Checkout</button>
+        <button type="button" class="btn btn-primary checkout-btn" onclick="goToCheckout()">Checkout</button>
       </div>
     </div>
   </div>
